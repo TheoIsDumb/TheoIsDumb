@@ -1,2 +1,3 @@
-<img src="namaskaaram.webp" alt="namaskaaram" title="നമസ്കാരം"/>
+![namaskaaram](namaskaaram.webp)
+
 ![test](test.svg)
