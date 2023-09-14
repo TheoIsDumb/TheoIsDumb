@@ -1,3 +1,3 @@
 ![namaskaaram](one.svg)
 
-![test](test.svg)
+![test](new.svg)
