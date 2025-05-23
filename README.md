@@ -1,3 +1,4 @@
-![namaskaaram](two.svg)
+Survivor of SOS. (Shiny Object Syndrome)
 
-![test](optimized.svg)
+Everyday is a miracle, a gift from the Lord.  
+Thank you, Lord, for leading me.
